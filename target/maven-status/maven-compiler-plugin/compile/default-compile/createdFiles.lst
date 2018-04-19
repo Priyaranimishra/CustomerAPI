@@ -1,0 +1,5 @@
+micron\rest\customermanagement\UserDao.class
+micron\rest\customermanagement\WebServiceTester.class
+micron\rest\customermanagement\User.class
+micron\rest\customermanagement\UserService.class
+micron\rest\customermanagement\WriteUsers.class
