@@ -12,7 +12,7 @@ public class User implements Serializable {
    private String name;
    private String profession;
 
-   public User(){}
+   public user(){}
    
    public User(int id, String name, String profession){
       this.id = id;
